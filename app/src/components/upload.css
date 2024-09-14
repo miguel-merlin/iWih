@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css2?family=SUSE:wght@100..800&display=swap" rel="stylesheet');
+
+* {
+    background-color: #472e34;
+    font-family: "suse";
+}
+
+#left-container {
+    color: #d7cfb7;
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    width: 80%;
+}
+
+#line {
+    display: flex;
+    flex-direction: row;
+}
+
+#check {
+    height: 50px;
+    width: 50px;
+    position: relative;
+    top: 40px;
+    left: 20px;
+    color: #b45a79;
+}
+
+#upload-box {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10%;
+    color: #a09d83;
+}
+
+#file-input {
+    background-color: #472e34;
+    z-index: 2;
+    margin: 0;
+    position: relative;
+    top: 10px;
+}
+
+input::file-selector-button {
+    display: block;
+}
+
+#upload-cloud {
+    color: #d7cfb7;
+    background-color: #472e34; 
+    height: 80%;
+    width: 80%;
+}
+
+#file-buttons {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+#file-input {
+    position: relative;
+    left: 15%;
+}
+
+#upload-button {
+    position: relative;
+    right: 15%;
+    z-index: 2;
+}
+
+.suse {
+    font-family: "SUSE", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: normal;
+    font-style: normal;
+    letter-spacing: 2px;
+  }
+
+  ul {
+    list-style-type: none;
+  }
+
+  #arrow1, #arrow2, #arrow3 {
+    padding-right: 20px;
+  }
