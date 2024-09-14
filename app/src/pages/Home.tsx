@@ -1,13 +1,13 @@
-import NavBar from "./components/NavBar";
-import Intro from "./components/Intro";
-import PaperUpload from "./components/PaperUpload";
-import SearchInput from "./components/SearchInput";
+import NavBar from "../components/NavBar";
+import Intro from "../components/Intro";
+import PaperUpload from "../components/PaperUpload";
+import SearchInput from "../components/SearchInput";
 
 function Home() {
   return (
     <div>
-      <NavBar></NavBar>
-      <Intro></Intro>
+      <NavBar />
+      <Intro />
       <PaperUpload />
       <SearchInput />
     </div>

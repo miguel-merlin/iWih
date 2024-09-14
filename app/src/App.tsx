@@ -1,15 +1,15 @@
 import Home from "./pages/Home";
-import UploadBox from "./pages/components/uploadBox";
-import UploadInfo from "./pages/components/uploadInfo";
-import "./pages/components/upload.css";
+import UploadBox from "./components/uploadBox";
+import UploadInfo from "./components/uploadInfo";
+import "./components/upload.css";
 
 function App() {
   return (
     <div>
-      <Home></Home>
+      <Home />
       <div id="upload-section">
-        <UploadInfo></UploadInfo>
-        <UploadBox></UploadBox>
+        <UploadInfo />
+        <UploadBox />
       </div>
     </div>
   );
