@@ -4,7 +4,9 @@ import spacy
 from nameparser import HumanName
 import requests
 from genderize import Genderize
-
+from GenderSpecificDisease import GenderDisease
+from classification import GenderClassifier
+import numpy as np
 # Regex is just like magic...
 # It is so cool...
 class PaperAnalysis:
@@ -20,7 +22,12 @@ class PaperAnalysis:
         self.male_participant_ratio = 0.5
         self.male_author_ratio = 0.5
         self.male_pronouns_ratio = 0.5
-
+        self.male_participants_count = 0
+        self.female_participants_count = 0
+        self.disease_male_or_female_only = "neutral"
+        self.model_result = 0
+        self.genderSpecficDisease = GenderDisease(self.pdf_path)
+        self.genderBiasedClassifier = GenderClassifier()
     # Process pdf into text
     def extract_text_from_pdf_with_ocr(self, pdf_path):
         try:
@@ -78,7 +85,7 @@ class PaperAnalysis:
     # See the referneces part and extract author name using spacy
     # Spacy kinda bad... so I still need to clean it the second times using clean_author_name
     def extract_author_from_references(self):
-        match = re.search(r'References\b', self.pdf_text, re.IGNORECASE)
+        match = re.search(r'\b(?:References|Literature Cited)\b', self.pdf_text, re.IGNORECASE)
         if match:
             references_text = self.pdf_text[match.end():].strip()
             self.author_names = self.extract_names_with_spacy(references_text)
@@ -123,14 +130,25 @@ class PaperAnalysis:
         total_participants = self.male_participants_count + self.female_participants_count
         if total_participants > 0:
             self.male_participant_ratio = round((self.male_participants_count / total_participants), 2)
+        self.disease_male_or_female_only = self.genderSpecficDisease.open_AI_classification()
+        print(self.genderSpecficDisease)
+        if (self.disease_male_or_female_only.strip("'") == "female"):
+            print("This study conducted a research in female-related diseases")
+        elif (self.disease_male_or_female_only.strip("'") == "male"):
+            print("This study conducted a resaerch in male-related diseases")
+        else:
+            print("The diesase affected both genders")
+        self.genderBiasedClassifier.train("train.csv")
+        self.model_result = self.genderBiasedClassifier.predict(np.array([self.male_participant_ratio, self.male_author_ratio, self.male_pronouns_ratio]))
         print(self.male_participant_ratio)
         print(self.male_author_ratio)
         print(self.male_pronouns_ratio)
+        
         print(f"Male Participants: {self.male_participants_count}, Female Participants: {self.female_participants_count}")
         print(f"Male Participant Ratio: {self.male_participant_ratio}")
+        print(f"Model result: {self.model_result} (0 for not biased toward male, 1 for biased toward male)")
         return self.male_participant_ratio, self.male_author_ratio, self.male_pronouns_ratio, self.case_study
 
 if __name__ == "__main__":
-    analyzer = PaperAnalysis("Drug_BiasedMale.pdf")
-    analyzer.data_combination()
-    
+    analyzer = PaperAnalysis("HotFlashes.pdf")
+    analyzer.data_combination()    

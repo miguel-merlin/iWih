@@ -39,5 +39,5 @@ class GenderClassifier:
 if __name__ == "__main__":
     classifier = GenderClassifier()
     classifier.train("train.csv") 
-    prediction = classifier.predict([0.5, 0.91, 0.43])
+    prediction = classifier.predict([0.5, 0.91, 0.01])
     print(f"Predicted Class: {prediction}")
