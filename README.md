@@ -1,5 +1,5 @@
 # iWih
-# How to run the client?
+## How to run the client?
 ```bash
 cd client && npm install
 npm run dev
