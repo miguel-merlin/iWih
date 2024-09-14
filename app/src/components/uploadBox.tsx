@@ -1,6 +1,6 @@
 import "../styles/upload.css";
 
-const uploadBox = () => {
+const UploadBox = () => {
   return (
     <form id="upload-box">
       <svg
@@ -24,4 +24,4 @@ const uploadBox = () => {
   );
 };
 
-export default uploadBox;
+export default UploadBox;

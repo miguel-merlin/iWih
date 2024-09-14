@@ -1,6 +1,6 @@
 import "../styles/upload.css";
 
-const uploadInfo = () => {
+const UploadInfo = () => {
   return (
     <div id="left-container">
       <div id="line">
@@ -67,4 +67,4 @@ const uploadInfo = () => {
   );
 };
 
-export default uploadInfo;
+export default UploadInfo;
