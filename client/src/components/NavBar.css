@@ -1,0 +1,49 @@
+.navbar-brand {
+  position: absolute;
+  left: 5%;
+}
+
+nav {
+  position: absolute;
+  height: 164px;
+  left: 0px;
+  right: 0px;
+  top: 0px;
+  background: #ffffff;
+  text-align: right;
+  background-color: #fff;
+  margin: 0;
+  padding-top: 0.5em;
+  padding-bottom: 1em;
+  padding-right: 1em;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 9999;
+  width: 100%;
+  height: auto;
+  padding-right: 0;
+}
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding-right: 2em;
+  font-size: 1.2em;
+}
+nav li {
+  display: inline;
+  padding-left: 2em;
+  width: 30%;
+}
+nav a {
+  text-decoration: none;
+}
+nav a:link {
+  color: #3f2860;
+}
+nav a:visited {
+  color: #497777;
+}
+nav a:hover {
+  color: #a26100;
+}
