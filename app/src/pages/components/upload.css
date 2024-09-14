@@ -1,5 +1,13 @@
 @import url('https://fonts.googleapis.com/css2?family=SUSE:wght@100..800&display=swap" rel="stylesheet');
 
+#upload-section {
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
 * {
     background-color: #472e34;
     font-family: "suse";
@@ -11,6 +19,8 @@
     flex-direction: column;
     text-align: left;
     width: 80%;
+    position: relative;
+    left: 15%;
 }
 
 #line {
@@ -22,7 +32,7 @@
     height: 50px;
     width: 50px;
     position: relative;
-    top: 40px;
+    top: 15px;
     left: 20px;
     color: #b45a79;
 }
@@ -36,6 +46,8 @@
     align-items: center;
     border-radius: 10%;
     color: #a09d83;
+    position: relative;
+    right: 15%;
 }
 
 #file-input {
@@ -43,7 +55,7 @@
     z-index: 2;
     margin: 0;
     position: relative;
-    top: 10px;
+    top: 8px;
 }
 
 input::file-selector-button {
@@ -53,7 +65,7 @@ input::file-selector-button {
 #upload-cloud {
     color: #d7cfb7;
     background-color: #472e34; 
-    height: 80%;
+    height: 50%;
     width: 80%;
 }
 
@@ -62,6 +74,8 @@ input::file-selector-button {
     flex-direction: row;
     justify-content: space-around;
     align-items: center;
+    position: relative;
+    bottom: 20px;
 }
 
 #file-input {
@@ -73,6 +87,7 @@ input::file-selector-button {
     position: relative;
     right: 15%;
     z-index: 2;
+    background-color: #d7cfb7;
 }
 
 .suse {

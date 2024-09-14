@@ -2,7 +2,6 @@ import "./upload.css";
 
 const uploadInfo = () => {
   return (
-    <div id="container">
       <div id="left-container">
         <div id="line">
           <h1>Check your file</h1>
@@ -65,7 +64,6 @@ const uploadInfo = () => {
           </li>
         </ul>
       </div>
-    </div>
   );
 };
 
