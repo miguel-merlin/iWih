@@ -1,4 +1,3 @@
-import { Component } from "react";
 //import AutoFitImage from 'react-image-autofit-frame';
 
 function GalleryDiv() {

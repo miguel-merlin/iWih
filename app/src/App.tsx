@@ -1,7 +1,7 @@
 import Home from "./pages/Home";
 import UploadBox from "./components/uploadBox";
 import UploadInfo from "./components/uploadInfo";
-import "./components/upload.css";
+import "./styles/upload.css";
 
 function App() {
   return (
