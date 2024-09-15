@@ -22,11 +22,19 @@ function ScrollItem({ itemId, title, imageSrc, onClick }: ItemProps) {
       className="scroll-item"
       style={{ width: "160px", padding: "10px", textAlign: "center" }}
     >
-      <button onClick={onClick} style={{ width: "100%", padding: "10px" }}>
+      <button
+        onClick={onClick}
+        style={{ width: "100%", padding: "10px", backgroundColor: "#CCc8A8" }}
+      >
         <img
           src={imageSrc}
           alt={title}
-          style={{ width: "100%", height: "100px", objectFit: "cover" }}
+          style={{
+            width: "100%",
+            height: "100px",
+            objectFit: "cover",
+            backgroundColor: "#CCc8A8",
+          }}
         />
         <div>{title}</div>
       </button>
@@ -42,7 +50,7 @@ function Teamdesc() {
         marginTop: "20px",
         padding: "20px",
         border: "1px solid #ddd",
-        backgroundColor: "#f9f9f9",
+        backgroundColor: "#CCc8A8",
       }}
     >
       <h1>Invisible Women in Health</h1>
@@ -75,7 +83,7 @@ function Ananyadesc() {
         marginTop: "20px",
         padding: "20px",
         border: "1px solid #ddd",
-        backgroundColor: "#f9f9f9",
+        backgroundColor: "#CCc8A8",
       }}
     >
       <h1>Team Member: Ananya</h1>
@@ -98,7 +106,7 @@ function Ducdesc() {
         marginTop: "20px",
         padding: "20px",
         border: "1px solid #ddd",
-        backgroundColor: "#f9f9f9",
+        backgroundColor: "#CCc8A8",
       }}
     >
       <h1>Team Member: Duc</h1>
@@ -115,7 +123,7 @@ function Elladesc() {
         marginTop: "20px",
         padding: "20px",
         border: "1px solid #ddd",
-        backgroundColor: "#f9f9f9",
+        backgroundColor: "#CCc8A8",
       }}
     >
       <h1>Team Member: Ella</h1>
@@ -132,7 +140,7 @@ function DefaultDisplay() {
         marginTop: "20px",
         padding: "20px",
         border: "1px solid #ddd",
-        backgroundColor: "#f9f9f9",
+        backgroundColor: "#CCc8A8",
         textAlign: "center",
       }}
     >

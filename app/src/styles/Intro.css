@@ -1,0 +1,15 @@
+#intro {
+  background-color: #ccc8a8;
+  width: 900px;
+  height: 200px;
+  padding: 50px;
+  position: relative;
+  display: inline-block;
+  border-radius: 25px;
+}
+
+#cloud {
+  position: relative;
+  right: 10%;
+  display: inline-block;
+}
