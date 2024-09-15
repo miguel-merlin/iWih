@@ -37,21 +37,21 @@ const Research = () => {
             <div className="container px-4 py-5 causes-container" id="featured-3">
                 <h2 id="causes-h2" className="pb-2">Causes of Female Research Participant Under-Representation</h2>
                 <hr id="causes-line"/>
-                <div className="row g-4 py-5 row-cols-1 row-cols-lg-3">
-                <div className="feature col">
-                    <h3 id="causes-h3-1" className="fs-2 text-body-emphasis">Ethics of “Anticipatory Motherhood”</h3>
-                    <p className="cause-p">Historically, researchers have considered it unethical to 
-                        test experimental drugs on women of “childbearing potential” 
-                        due to potential risks it poses to future pregnancies. 
-                        Because Phase 1 volunteers must be healthy,
-                        women of healthy age overlap heavily with women of reproductive age.
-                    </p>
-                    <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9017784/" target="_blank" className="icon-link">
-                    See reference
-                    <svg className="bi"><use xlinkHref="#chevron-right"></use></svg>
-                    </a>
-                </div>
-                <div className="feature col">
+                <div id="causes-columns" className="row g-4 py-5 row-cols-1 row-cols-lg-3">
+                    <div className="feature-col">
+                        <h3 id="causes-h3-1" className="fs-2 text-body-emphasis">Ethics of “Anticipatory Motherhood”</h3>
+                        <p className="cause-p">Historically, researchers have considered it unethical to 
+                            test experimental drugs on women of “childbearing potential” 
+                            due to potential risks it poses to future pregnancies. 
+                            Because Phase 1 volunteers must be healthy,
+                            women of healthy age overlap heavily with women of reproductive age.
+                        </p>
+                        <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9017784/" target="_blank" className="icon-link">
+                        See reference
+                        <svg className="bi"><use xlinkHref="#chevron-right"></use></svg>
+                        </a>
+                    </div>
+                    <div className="feature-col">
                     <h3 id="causes-h3-2" className="fs-2 text-body-emphasis">Vulnerability in Male-Dominated Spaces</h3>
                     <p className="cause-p">Women who participate in clinical trials have reported 
                         feeling uncomfortable or unsafe when staying in a facility where men 
@@ -64,7 +64,7 @@ const Research = () => {
                     <svg className="bi"><use xlinkHref="#chevron-right"></use></svg>
                     </a>
                 </div>
-                <div className="feature col">
+                <div className="feature-col">
                     <h3 id="causes-h3-3" className="fs-2 text-body-emphasis">Discouragement From Male Partners</h3>
                     <p className="cause-p">Due to existing stigmas, men may discourage their 
                         female significant others from participating in clinical drug research or 
