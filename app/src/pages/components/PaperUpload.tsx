@@ -8,10 +8,7 @@ export default function PaperUpload() {
 
   async function handleSendPaper(event: FormEvent) {
     event.preventDefault();
-    if (selectedPdf == null || paperTitle === "" || paperAuthor === "") {
-      alert("Please fill in all the fileds");
-      return;
-    }
+    console.log("In handle submit");
     const uploadPaperURL = new URL(`${convexSiteUrl}/api/upload-paper`);
     uploadPaperURL.searchParams.set("title", paperTitle);
     uploadPaperURL.searchParams.set("author", paperAuthor);
@@ -22,6 +19,7 @@ export default function PaperUpload() {
     });
     setSelectedPdf(null);
     pdfInput.current!.value = "";
+    console.log("Finished");
   }
   return (
     <>
@@ -38,9 +36,7 @@ export default function PaperUpload() {
             onChange={(evet) => setPaperTitle(evet.target.value)}
           />
           <input
-            type="submit"
-            value="Upload paper"
-            accept="pdf/*"
+            type="file"
             ref={pdfInput}
             onChange={(event) => setSelectedPdf(event.target.files![0])}
           />
