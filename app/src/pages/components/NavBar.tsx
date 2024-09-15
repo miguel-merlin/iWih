@@ -4,13 +4,11 @@ import { Outlet, Link } from "react-router-dom";
 function Navbar() {
   return (
     <div>
-      {/* A "layout route" is a good place to put markup you want to
-          share across all the pages on your site, like navigation. */}
-      <a className="navbar-brand" href="#">
-        <Link to="/">IWiH</Link>
-      </a>
       <nav>
-        <ul>
+        <a className="navbar-brand" href="#">
+          <Link to="/">IWiH</Link>
+        </a>
+        <ul className="navbar-links">
           <li>
             <Link to="/">Home</Link>
           </li>
@@ -23,27 +21,18 @@ function Navbar() {
           </li>  
             <form className="searchbar">
               <input
-                className="form-control mr-sm-2"
+                className="form-control search-input"
                 type="search"
                 placeholder="Search"
                 aria-label="Search"
-              ></input>
-              <button
-                className="btn btn-outline-success my-2 my-sm-0"
-                type="submit"
-              >
+              />
+              <button className="btn search-button" type="submit">
                 Search
               </button>
             </form>
           </li>
         </ul>
       </nav>
-
-      <hr />
-
-      {/* An <Outlet> renders whatever child route is currently active,
-          so you can think about this <Outlet> as a placeholder for
-          the child routes we defined above. */}
       <Outlet />
     </div>
   );

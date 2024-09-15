@@ -1,107 +1,108 @@
 @import url('https://fonts.googleapis.com/css2?family=SUSE:wght@100..800&display=swap" rel="stylesheet');
 
 #upload-section {
-    display: grid;
-    grid-template-columns: 2fr 1fr;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
 }
 
 * {
-    background-color: #472e34;
-    font-family: "suse";
+  font-family: "suse";
 }
 
 #left-container {
-    color: #d7cfb7;
-    display: flex;
-    flex-direction: column;
-    text-align: left;
-    width: 80%;
-    position: relative;
-    left: 15%;
+  color: #d7cfb7;
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+  width: 80%;
+  position: relative;
+  left: 15%;
 }
 
 #line {
-    display: flex;
-    flex-direction: row;
+  display: flex;
+  flex-direction: row;
 }
 
 #check {
-    height: 50px;
-    width: 50px;
-    position: relative;
-    top: 15px;
-    left: 20px;
-    color: #b45a79;
+  height: 50px;
+  width: 50px;
+  position: relative;
+  top: 15px;
+  left: 20px;
+  color: #b45a79;
 }
 
 #upload-box {
-    height: 100%;
-    width: 100%;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    border-radius: 10%;
-    color: #a09d83;
-    position: relative;
-    right: 15%;
+  height: 100%;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10%;
+  color: #a09d83;
+  position: relative;
+  right: 15%;
 }
 
 #file-input {
-    background-color: #472e34;
-    z-index: 2;
-    margin: 0;
-    position: relative;
-    top: 8px;
+  background-color: #472e34;
+  z-index: 2;
+  margin: 0;
+  position: relative;
+  top: 8px;
 }
 
 input::file-selector-button {
-    display: block;
+  display: block;
 }
 
 #upload-cloud {
-    color: #d7cfb7;
-    background-color: #472e34; 
-    height: 50%;
-    width: 80%;
+  color: #d7cfb7;
+  background-color: #472e34;
+  height: 50%;
+  width: 80%;
 }
 
 #file-buttons {
-    display: flex;
-    flex-direction: row;
-    justify-content: space-around;
-    align-items: center;
-    position: relative;
-    bottom: 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  position: relative;
+  bottom: 20px;
 }
 
 #file-input {
-    position: relative;
-    left: 15%;
+  position: relative;
+  left: 15%;
 }
 
 #upload-button {
-    position: relative;
-    right: 15%;
-    z-index: 2;
-    background-color: #d7cfb7;
+  position: relative;
+  right: 15%;
+  z-index: 2;
+  background-color: #d7cfb7;
 }
 
 .suse {
-    font-family: "SUSE", sans-serif;
-    font-optical-sizing: auto;
-    font-weight: normal;
-    font-style: normal;
-    letter-spacing: 2px;
-  }
+  font-family: "SUSE", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: normal;
+  font-style: normal;
+  letter-spacing: 2px;
+}
 
-  ul {
-    list-style-type: none;
-  }
+ul {
+  list-style-type: none;
+}
 
-  #arrow1, #arrow2, #arrow3 {
-    padding-right: 20px;
-  }
+#arrow1,
+#arrow2,
+#arrow3 {
+  padding-right: 20px;
+}
