@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import { useState } from "react";
 import { ScrollMenu } from "react-horizontal-scrolling-menu";
 import "react-horizontal-scrolling-menu/dist/styles.css";
 import logo from "../../assets/iwih_logo.png";
@@ -17,15 +17,25 @@ type ItemProps = {
 };
 
 // ScrollItem component with a button containing an image
-function ScrollItem({ itemId, title, imageSrc, onClick }: ItemProps) {
+function ScrollItem({ title, imageSrc, onClick }: ItemProps) {
   return (
     <div
       className="scroll-item"
-      style={{ width: "160px", padding: "10px", textAlign: "center" }}
+      style={{
+        width: "160px",
+        padding: "10px",
+        textAlign: "center",
+        borderRadius: "25px",
+      }}
     >
       <button
         onClick={onClick}
-        style={{ width: "100%", padding: "10px", backgroundColor: "#CCc8A8" }}
+        style={{
+          width: "100%",
+          padding: "10px",
+          backgroundColor: "#CCc8A8",
+          borderRadius: "25px",
+        }}
       >
         <img
           src={imageSrc}
@@ -35,6 +45,7 @@ function ScrollItem({ itemId, title, imageSrc, onClick }: ItemProps) {
             height: "100px",
             objectFit: "cover",
             backgroundColor: "#CCc8A8",
+            borderRadius: "25px",
           }}
         />
         <div>{title}</div>
@@ -52,6 +63,7 @@ function Teamdesc() {
         padding: "20px",
         border: "1px solid #ddd",
         backgroundColor: "#CCc8A8",
+        borderRadius: "25px",
       }}
     >
       <h1>Invisible Women in Health</h1>
@@ -85,15 +97,16 @@ function Ananyadesc() {
         padding: "20px",
         border: "1px solid #ddd",
         backgroundColor: "#CCc8A8",
+        borderRadius: "25px",
       }}
     >
       <h1>Team Member: Ananya</h1>
       <p>
         Hi! I'm Ananya and I worked on the front-end and design of the IWiH
-        project! I am a 2/4 CS Major at Stevens Institute of Technology and I
-        love to paint in my free time! I'm super inspired by Claude Monet and
-        the Impressionism movement so I paint pop culture icons and references
-        often in that style!
+        project using ReactJS and bootstrap! I am a 2/4 CS Major at Stevens
+        Institute of Technology and I love to paint in my free time! I'm super
+        inspired by Claude Monet and the Impressionism movement so I paint pop
+        culture icons and references often in that style!
       </p>
     </div>
   );
@@ -108,15 +121,22 @@ function Ducdesc() {
         padding: "20px",
         border: "1px solid #ddd",
         backgroundColor: "#CCc8A8",
+        borderRadius: "25px",
       }}
     >
       <h1>Team Member: Duc</h1>
-      <p>Add in your desc here!</p>
+      <p>
+        Hi I'm Duc, I worked on creating the AI model that detects bias in the
+        medical research papers using NLP processing libraries and powerful API
+        such as SciPy, regex, openAI API, genderize API and Nameparser, with the
+        help of TensorFlow, Keras, and Scikit-learn! I am also the team lead!
+        I'm a Junior at UIC and I had a blast at the event!
+      </p>
     </div>
   );
 }
 
-// Duc description
+// Ella description
 function Elladesc() {
   return (
     <div
@@ -125,6 +145,7 @@ function Elladesc() {
         padding: "20px",
         border: "1px solid #ddd",
         backgroundColor: "#CCc8A8",
+        borderRadius: "25px",
       }}
     >
       <h1>Team Member: Ella</h1>
@@ -133,14 +154,16 @@ function Elladesc() {
   );
 }
 
-function MiguelDesc() {
+// Miguel description
+function Migueldesc() {
   return (
     <div
       style={{
         marginTop: "20px",
         padding: "20px",
         border: "1px solid #ddd",
-        backgroundColor: "#f9f9f9",
+        backgroundColor: "#CCc8A8",
+        borderRadius: "25px",
       }}
     >
       <h1>Team Member: Miguel</h1>
@@ -159,6 +182,7 @@ function DefaultDisplay() {
         border: "1px solid #ddd",
         backgroundColor: "#CCc8A8",
         textAlign: "center",
+        borderRadius: "25px",
       }}
     >
       <h1>About</h1>
@@ -180,7 +204,7 @@ function GalleryDiv() {
   const handleClick2 = () => setSelectedComponent(<Ananyadesc />);
   const handleClick3 = () => setSelectedComponent(<Ducdesc />);
   const handleClick4 = () => setSelectedComponent(<Elladesc />); // Reset or set to any default component
-  const handleClick5 = () => setSelectedComponent(<MiguelDesc />); // Reset or set to any default component
+  const handleClick5 = () => setSelectedComponent(<Migueldesc />); // Reset or set to any default component
 
   // Array of 5 items with images and unique click handlers
   const items = [
@@ -209,7 +233,7 @@ function GalleryDiv() {
       onClick: handleClick4,
     },
     {
-      itemdId: "item-6",
+      itemId: "item-5",
       title: "Miguel",
       imageSrc: miguel,
       onClick: handleClick5,
