@@ -18,6 +18,9 @@ function Navbar() {
             <Link to="/about">About</Link>
           </li>
           <li>
+          <li>
+            <Link to="/research">Research</Link>
+          </li>  
             <form className="searchbar">
               <input
                 className="form-control search-input"
