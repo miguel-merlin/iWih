@@ -29,19 +29,21 @@ nav {
 
 .navbar-logo {
   background-color: #ffffff;
-  width: 40px;
-  height: 40px;
+  width: 60px;
+  height: auto;
   margin-right: 10px;
 }
 
 /* Right-aligned nav items */
 .navbar nav {
+  text-decoration: none;
   background-color: #ffffff;
   display: flex;
   align-items: center;
 }
 
 .navbar nav ul {
+  text-decoration: none;
   background-color: #ffffff;
   list-style: none;
   display: flex;
@@ -50,11 +52,13 @@ nav {
 }
 
 .navbar nav ul li {
+  text-decoration: none;
   background-color: #ffffff;
   margin-left: 20px;
 }
 
 .navbar nav ul li a {
+  text-decoration: none;
   background-color: #ffffff;
   color: #b45a79;
   text-decoration: none;
