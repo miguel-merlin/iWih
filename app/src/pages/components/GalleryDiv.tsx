@@ -5,6 +5,7 @@ import logo from "../../assets/iwih_logo.png";
 import ananya from "../../assets/ananya.png";
 import duc from "../../assets/Duc.jpg";
 import team from "../../assets/IwiH_Team.jpg";
+import ella from "../../assets/ella.jpg";
 
 // Type for each item
 type ItemProps = {
@@ -33,7 +34,7 @@ function ScrollItem({ itemId, title, imageSrc, onClick }: ItemProps) {
   );
 }
 
-// Team
+// Team description
 function Teamdesc() {
   return (
     <div
@@ -46,7 +47,7 @@ function Teamdesc() {
     >
       <h1>Invisible Women in Health</h1>
       <p>
-        Invisible Women in Health is a initiative to bring the efforts of women
+        Invisible Women in Health is an initiative to bring the efforts of women
         in healthcare to light. Research is often cluttered with bias and does
         not account for the research and achievements that women do. IWiH aims
         to use AI for the good for women in healthcare.
@@ -66,7 +67,7 @@ function Teamdesc() {
   );
 }
 
-// Component 2
+// Ananya description
 function Ananyadesc() {
   return (
     <div
@@ -89,6 +90,7 @@ function Ananyadesc() {
   );
 }
 
+// Duc description
 function Ducdesc() {
   return (
     <div
@@ -105,18 +107,55 @@ function Ducdesc() {
   );
 }
 
+// Duc description
+function Elladesc() {
+  return (
+    <div
+      style={{
+        marginTop: "20px",
+        padding: "20px",
+        border: "1px solid #ddd",
+        backgroundColor: "#f9f9f9",
+      }}
+    >
+      <h1>Team Member: Ella</h1>
+      <p>Add in your desc here!</p>
+    </div>
+  );
+}
+
+// Default display component
+function DefaultDisplay() {
+  return (
+    <div
+      style={{
+        marginTop: "20px",
+        padding: "20px",
+        border: "1px solid #ddd",
+        backgroundColor: "#f9f9f9",
+        textAlign: "center",
+      }}
+    >
+      <h1>About</h1>
+      <p>
+        Click on the buttons above to find out more about IWiH and the team!
+      </p>
+    </div>
+  );
+}
+
 // GalleryDiv component with unique click functions for each button
 function GalleryDiv() {
   // State to track which component to display
   const [selectedComponent, setSelectedComponent] =
-    useState<JSX.Element | null>(null);
+    useState<JSX.Element | null>(<DefaultDisplay />);
 
   // Define unique click handlers for each button
   const handleClick1 = () => setSelectedComponent(<Teamdesc />);
   const handleClick2 = () => setSelectedComponent(<Ananyadesc />);
-  const handleClick3 = () => setSelectedComponent(<Ducdesc />); // Reset or set to any default component
-  const handleClick4 = () => setSelectedComponent(null); // Reset or set to any default component
-  const handleClick5 = () => setSelectedComponent(null); // Reset or set to any default component
+  const handleClick3 = () => setSelectedComponent(<Ducdesc />);
+  const handleClick4 = () => setSelectedComponent(<Elladesc />); // Reset or set to any default component
+  const handleClick5 = () => setSelectedComponent(<DefaultDisplay />); // Reset or set to any default component
 
   // Array of 5 items with images and unique click handlers
   const items = [
@@ -124,31 +163,31 @@ function GalleryDiv() {
       itemId: "item-1",
       title: "IWiH",
       imageSrc: logo,
-      onClick: handleClick1, // Displays Component 1
+      onClick: handleClick1,
     },
     {
       itemId: "item-2",
       title: "Ananya",
       imageSrc: ananya,
-      onClick: handleClick2, // Displays Component 2
+      onClick: handleClick2,
     },
     {
       itemId: "item-3",
       title: "Duc",
       imageSrc: duc,
-      onClick: handleClick3, // Example click handler
+      onClick: handleClick3,
     },
     {
       itemId: "item-4",
-      title: "Button 4",
-      imageSrc: "https://via.placeholder.com/150",
-      onClick: handleClick4, // Example click handler
+      title: "Ella",
+      imageSrc: ella,
+      onClick: handleClick4,
     },
     {
       itemId: "item-5",
       title: "Button 5",
       imageSrc: "https://via.placeholder.com/150",
-      onClick: handleClick5, // Example click handler
+      onClick: handleClick5,
     },
   ];
 
@@ -161,7 +200,7 @@ function GalleryDiv() {
             itemId={itemId}
             title={title}
             imageSrc={imageSrc}
-            onClick={onClick} // Pass the unique function here
+            onClick={onClick}
           />
         ))}
       </ScrollMenu>
