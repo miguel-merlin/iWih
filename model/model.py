@@ -1,7 +1,6 @@
 import textract
 import re
 import spacy
-from nameparser import HumanName
 import requests
 from genderize import Genderize
 from GenderSpecificDisease import GenderDisease

@@ -32,8 +32,3 @@ class GenderDisease():
         temperature=0  
         )
         return response['choices'][0]['message']['content'].strip()
-    
-
-if __name__ == "__main__":
-    genderDisease = GenderDisease("HotFlashes.pdf")
-    print(genderDisease.open_AI_classification())

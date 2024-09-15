@@ -1,4 +1,4 @@
-import "./Intro.css";
+import "../styles/Intro.css";
 
 function Intro() {
   return (

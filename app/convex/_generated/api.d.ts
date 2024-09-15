@@ -15,7 +15,8 @@ import type {
   FilterApi,
   FunctionReference,
 } from "convex/server";
-import type * as paperActions from "../paperActions.js";
+import type * as http from "../http.js";
+import type * as papers from "../papers.js";
 
 /**
  * A utility for referencing Convex functions in your app's API.
@@ -26,7 +27,8 @@ import type * as paperActions from "../paperActions.js";
  * ```
  */
 declare const fullApi: ApiFromModules<{
-  paperActions: typeof paperActions;
+  http: typeof http;
+  papers: typeof papers;
 }>;
 export declare const api: FilterApi<
   typeof fullApi,
