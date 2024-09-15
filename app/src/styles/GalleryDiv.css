@@ -3,8 +3,10 @@ div.scroll-container {
   overflow: auto;
   white-space: nowrap;
   padding: 10px;
+  border-radius: 25px;
 }
 
 div.scroll-container img {
   padding: 10px;
+  border-radius: 25px;
 }
