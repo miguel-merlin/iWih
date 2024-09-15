@@ -11,9 +11,9 @@ function Home() {
     <div>
       <Intro />
       <div id="upload-section">
-            <UploadInfo></UploadInfo>
-            <UploadBox></UploadBox>
-        </div>
+        <UploadInfo></UploadInfo>
+        <UploadBox></UploadBox>
+      </div>
     </div>
   );
 }
