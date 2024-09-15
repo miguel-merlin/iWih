@@ -1,0 +1,1028 @@
+Human Reproduction vol.12 no. 11 pp.2422-2428, 1997
+
+Distribution of spermatogenesis in the testicles of
+azoospermic men: the presence or absence of spermatids
+in the testes of men with germinal failure
+
+Sherman J.Silber1'3, Zsolt Nagy2, Paul Devroey2,
+Herman Tournaye 2 and Andre C.Van Steirteghem2
+
+3
+
+To whom correspondence should be addressed
+
+The aim of the study was to determine whether a prior
+diagnostic testicle biopsy can predict success or failure of
+testicular sperm extraction (TESE) with intracytoplasmic
+sperm injection (ICSI) in patients with non-obstructive
+azoospermia caused by testicular failure, and what is the
+minimum threshold of sperm production in the testis which
+must be surpassed for spermatozoa to reach the ejaculate.
+Forty-five patients with non-obstructive azoospermia
+caused by testicular failure underwent diagnostic testicle
+biopsy prior to a planned future TESE-ICSI procedure.
+The diagnostic testicle biopsy was analysed quantitatively,
+and correlated with the quantitative findings of spermatogenesis in patients with normal spermatogenesis, as well
+as with the results of subsequent attempts at TESE-ICSI.
+Men with non-obstructive azoospermia caused by germinal
+failure had a mean of 0-6 mature spermatids/seminiferous
+tubule seen on a diagnostic testicle biopsy, compared
+to 17-35 mature spermatids/tubule in men with normal
+spermatogenesis and obstructive azoospermia. These findings were the same for all types of testicular failure whether
+Sertoli cell only, maturation arrest, cryptorchidism, or
+post-chemotherapy azoospermia. Twenty-two of 26 men
+with mature spermatids found in the prior testis biopsy
+had successful retrieval of spermatozoa for ICSI, 12 of
+their partners became pregnant, and are either ongoing or
+delivered. The study suggests that 4-6 mature spermatids/
+tubule must be present in the testis biopsy for any
+spermatozoa to reach the ejaculate. More than half of
+azoospermic patients with germinal failure have minute
+foci of spermatogenesis which are insufficient to produce
+spermatozoa in the ejaculate. Prior diagnostic testicle
+biopsy analysed quantitatively (for the presence of mature
+spermatids) can predict subsequent success or failure with
+TESE-ICSI. Incomplete testicular failure may involve a
+sparse multi-focal distribution of spermatogenesis throughout the entire testicle, rather than a regional distribution.
+Therefore, it is possible that massive testicular sampling
+from many different regions of the testes may not be
+necessary for successful TESE-ICSI.
+Key words: ICSI/maturation arrest/non-obstructive azoospermia/quantitative spermatogenesis/Sertoli cell only
+2422
+
+It was not until the availability of intracytoplasmic sperm
+injection (ICSI) that this finding achieved practical clinical
+application for these patients (Van Steirteghem et al, 1993;
+Palermo et al, 1992). The technique (TESE-ICSI) was found
+to be equally successful in azoospermia caused by either
+'incomplete' maturation arrest or by 'incomplete' Sertoli cell
+only (Devroey et al, 1995; Silber et al, 1996). It was noted
+that in all cases of maturation arrest, the spermatogenic defect
+was in meiosis, and there was no need to search for round
+spermatids when performing TESE-ICSI. Wherever meiosis
+was completed and round spermatids were formed, mature
+spermatids and spermatozoa could also be observed.
+The qualitative histology of non-obstructive azoospermia
+cases undergoing TESE-ICSI has been reported to be highly
+variable (Tournaye et al, 1996a, 1997). The testicular histology
+was often performed at the same time as the TESE procedure
+(not as a prior diagnostic biopsy), and was never analysed
+quantitatively for the presence of mature spermatids using the
+methods referred to earlier.
+Because 60% of azoospermic cases with germ cell failure
+have been found to have spermatozoa in the testis, the diagnosis
+of 'Sertoli cell only' has had to be reconsidered and re-defined
+in many cases (Silber et al, 1995c). The apparent absence of
+spermatogenesis appears in a majority of cases to be only
+a partial or incomplete defect. A better understanding of
+spermatogenesis has thus led to the successful treatment of
+many otherwise sterile azoospermic men with testicular failure
+of a variety of causes (Clermont, 1972; Steinberger and Tjioe,
+1968; Heller and Clermont, 1964; Silber, 1995; Tournaye et al,
+1996b; Staessen et al, 1996).
+European Society for Human Reproduction and Embryology
+
+Downloaded from https://academic.oup.com/humrep/article/12/11/2422/664759 by guest on 15 September 2024
+
+'Director, Infertility Center of St Louis, St Luke's Hospital,
+224 South Woods Mill Road, St Louis, Missouri 63017, USA and
+2
+Centre for Reproductive Medicine, Academisch Ziekenhuis,
+Vrije Universiteit Brussel, Brussels, Belgium
+
+Introduction
+Testicular sperm extraction and intracytoplasmic sperm
+injection (TESE-ICSI) was first introduced in 1993 for the
+treatment of obstructive azoospermia (Schoysman et al, 1993;
+Devroey et al, 1994; Silber et al, 1994, 1995a). It was
+soon discovered that this technique could also be used for
+azoospermic men who appeared to have absent spermatogenesis, i.e. 'non-obstructive azoospermia' (Devroey et al,
+1995; Silber et al, 1995b). The theoretical basis for attempting
+to retrieve spermatozoa for ICSI, from the testes of men with
+apparent absence of spermatogenesis, is based on a study from
+1981 with quantitative analysis of spermatogenesis in testicle
+biopsy specimens (Silber and Rodriguez-Rigau, 1981;
+Zuckerman et al, 1978). In many cases of non-obstructive
+azoospermia, an occasional spermatid was noted in the testis
+biopsy despite being categorized as absent spermatogenesis.
+There thus appeared to be a certain threshold of a minimum
+amount of spermatogenesis necessary for spermatozoa to reach
+the ejaculate (Silber et al, 1995c).
+
+Testicular sperm distribution in azoospermia
+
+Prediction for finding sperm in testicular tissue
+based on prior diagnostic quantitative testicle biopsy
+
+No sperm found in tissue
+
+No sperm
+Diagnostic
+testicle biopsy
+
+TESE
+
+Diagnostic
+testicle biopsy
+
+TESE
+
+Figure 1. All patients in this study underwent a small diagnostic testicle biopsy before the relatively massive testicular sperm extraction
+(TESE)-intracytoplasmic sperm injection (ICSI) procedure.
+The purpose of the present study is to answer several
+questions regarding spermatogenesis, and the pathology and
+treatment of non-obstructive azoospermia. The first question is:
+what is the maximum threshold number of mature spermatids/
+tubule found in the testis biopsy, below which no spermatozoa
+will appear in the ejaculate? The second question is: can
+quantitative analysis of a prior routine diagnostic testicle
+biopsy give any prognosis for the potential success of a
+future TESE-ICSI?' Finally, what can we conclude about the
+distribution of spermatids in such cases, and would this
+information help in the surgical strategy for sperm retrieval
+and TESE in non-obstructive azoospermia?
+
+Materials and methods
+Patient population
+The patient population consisted of 45 consecutive male patients with
+a finding of azoospermia who were subjected to diagnostic testicle
+biopsy prior to their planned TESE-ICSI procedure (Figure 1). In all
+patients, the azoospermic semen was subjected, on three separate
+occasions, to centrifugation at 1800 g, with careful examination to
+determine the presence of even a single spermatozoon. If any
+spermatozoa at all were detected after centrifugation, these patients
+were excluded from the current study and underwent a standard ICSI
+procedure under the category of 'pseudo-azoospermia'. Patients were
+not considered to be azoospermic if even a single spermatozoon
+could be found after centrifugation at 1800 g. The absence of ductal
+obstruction was verified in all patients at the time of the diagnostic
+biopsy. All patients in this study then underwent, along with their
+wives, a TESE-ICSI procedure as has been previously described
+(Devroey et al, 1995; Silber et al, 1995a; Palermo et al, 1992). In
+summary, the selection of patients for this study were those couples
+suffering from non-obstructive azoospermia who underwent a TESEICSI attempt after having undergone a prior diagnostic testicle biopsy.
+All categories of non-obstructive azoospermia, based on the
+classical histological evaluation and clinical history, were included
+in this study. These categories were complete or incomplete Sertoli
+cell only, maturation arrest, cryptorchid testicular atrophy, post-
+
+chemotherapy azoospermia, and mixed types of deficient spermatogenesis. The diagnosis of testicular failure was based on the finding
+of azoospermia, the absence of obstruction, and classic pathological
+interpretation of histology. Then the biopsies were subjected to a
+time-consuming quantitative analysis.
+Quantitative analysis of testicular biopsy
+The method of quantitative analysis has already been described
+(Zuckerman et al, 1978; Silber and Rodriguez-Rigau, 1981; Silber
+et al, 1990). Histologic sections were prepared by excising the
+seminiferous tubules with wet, sharp, Iris scissors using a no-touch
+method, and allowing the specimen to fall into Zenker's solution. At
+no stage was the sample handled. The specimens were stained with
+haematoxylin and eosin and cut into thin sections.
+At least 20 seminiferous tubules (usually more) were evaluated on
+each side. All of the steps of spermatogenesis were counted, but only
+the most common, pre-meiotic and post-meiotic cells, for the purpose
+of this report, were tabulated, i.e., pachytene spermatocyte (premeiotic), and mature, or maturing, spermatids (slightly to completely
+elongated). A biopsy showing a single, isolated tubule with a few
+spermatids in a field of tubules that were otherwise strictly Sertoli
+cell only was, for simplicity, defined as 'Sertoli cell only'. 'Maturation
+arrest' was defined as an absence of mature spermatids despite normal
+early stages of spermatogenesis. Again, the presence of a rare
+spermatid in an entire slide of otherwise total maturation arrest was
+defined as maturation arrest. The totals of pre-meiotic spermatocytes
+(pachytene) and post-meiotic cells (spermatids) were tabulated and
+expressed as the 'mean' number/seminiferous tubule. The contents
+of all seminiferous tubules in the histologic section were included in
+the tabulation.
+If the biopsy showed normal spermatogenesis as defined by classical
+methods, the patient was deemed to have obstructive azoospermia,
+was thereby excluded from this study, and underwent microsurgery
+to correct the obstruction combined with microsurgical epididymal
+sperm aspiration (MESA). If obstruction was discovered, the patient
+was not included in this study, which is limited to pathology and
+treatment of non-obstructive azoospermia.
+Technique of diagnostic testicle biopsy
+The technique for diagnostic testicle biopsy was very simple compared
+to that used for TESE-ICSI. For diagnostic testicle biopsy, the
+2423
+
+Downloaded from https://academic.oup.com/humrep/article/12/11/2422/664759 by guest on 15 September 2024
+
+Sperm found in tissue
+
+Sperm
+
+SJ.Silber et al.
+
+TESE-ICSI procedure
+The technique for TESE-ICSI in these cases of non-obstructive
+azoospermia was more extensive than in cases of obstruction, and
+has previously been described in great detail (Silber et al, 1996). A
+2 cm horizontal incision was made in the scrotal skin and carried
+through the peritoneal tunica vaginalis, and then small incisions were
+made through the tunica albuginea in different regions of the testis.
+A small piece of extruding testicular tissue was excised and placed
+in a Petri dish with 3 ml HEPES-buffered media. After each biopsy,
+the tunica albuginea was closed with 3-0 vicryl stitches and the tissue
+was prepared and examined in the IVF laboratory before any
+subsequent biopsies were made in other areas of the testicle or
+testicles. If no spermatozoa were found after an initial search, then
+another biopsy was performed. The extensive search for spermatozoa
+in the ICSI lab would take too long for the patient to remain in the
+operating room waiting for a decision as to whether another TESE
+biopsy should be obtained from a different region of the testis.
+Therefore, if no spermatozoa were seen initially (before concentration
+in multiple 5 \xl droplets), further biopsies were taken. This is the
+standard approach we have used from the beginning for such cases.
+Often 4-8 biopsies were obtained if deemed necessary.
+The testicular tissue was minced finally in HEPES-buffered media
+and, after initial inspection in the IVF lab, placed in a 5 ml falcon
+tube and centrifuged for 5 min at 300 g. The supernatant was removed
+and the pellet resuspended in 50 ul of medium. For very difficult
+cases, the testicular suspension was incubated in red blood cell lysing
+buffer, and then washed again with HEPES-buffered medium (Ogura
+and Yanigamachi, 1993). All of the testicular suspension was examined
+completely by dividing it into multiple microdroplets in the ICSI
+injection dish with a volume of 5 ul/droplet. In this manner, the
+entire effluent obtained by mincing testicular tissue was examined in
+toto over the course of many hours, in an attempt to retrieve
+spermatozoa for ICSI. The ICSI procedure was then performed in
+the manner which has already been described in great detail (Silber
+et al, 1996).
+
+Results
+Threshold of spermatogenesis for spermatozoa to reach the
+ejaculate
+Tables I, II, and III summarize the results of the quantitative
+tabulation of pachytene spermatocytes and spermatids found
+in the seminiferous tubules on histologic examination of
+the patients with Sertoli cell only, with maturation arrest,
+and with mixed causes of non-obstructive azoospermia. In
+2424
+
+previous studies it has been demonstrated that with
+obstruction and normal spermatogenesis, the mean number
+of mature spermatids/tubule ranges from 17.4-31.4 (Silber
+and Rodriguez-Rigau, 1981; Silber et al, 1990). Wherever
+spermatids are present, a similar number of spermatocytes are
+also found. As can be seen from Table I, in patients with the
+classic histologic diagnosis of Sertoli cell only, nine out of 23
+(39%) were found to have a very small number of spermatids
+present (0.5-6.4 spermatids/seminiferous tubule) and thus
+were, in a sense, incomplete Sertoli cell only. This tiny focus
+of spermatogenesis in 39% of men who otherwise had classic
+Sertoli cell only is dramatically less than the number of
+spermatids seen in men with obstructive azoospermia who are
+presumed to have normal spermatogenesis (Figure 2).
+A similar finding is noted in Table II in the number of
+spermatids seen in the histology of men with azoospermia
+caused by maturation arrest. In this case, there is a mean of
+0.4 spermatids/tubule to 5.6 spermatids/tubule seen in 10
+of the 12 cases, and no spermatids whatsoever seen in two of
+the 12 cases. Again, this represents a dramatic decrease in the
+presence of spermatids compared to that seen in men with
+obstructive azoospermia and presumably normal spermatogenesis. Table III demonstrates the same phenomenon in
+cases of miscellaneous non-obstructive azoospermia including
+cryptorchidism and post-chemotherapy azoospermia, with
+anywhere from 0 spermatids/tubule to a maximum of 6.6
+spermatids/tubule.
+In the vast majority of these 45 cases of non-obstructive
+azoospermia, < 4 mature spermatids/tubule were noted in the
+quantitative histological analysis, and in none of these 45
+patients with non-obstructive azoospermia was there >6.5
+mature spermatids/tubule noted. This represents a 6-30-fold
+reduction in the number of mature spermatids/tubule seen in
+the two-dimensional histologic section from men with nonobstructive azoospermia compared to men with normal spermatogenesis.
+As was explained in 1981, the quantitation of spermatids/
+seminiferous tubule on histologic section represents a twodimensional evaluation, whereas the amount of spermatozoa
+in the ejaculate relates to the three-dimensional testicular
+volume. Therefore, the correlation between spermatogenesis
+seen on the two-dimensional histological slide and the number
+of spermatozoa to reach the ejaculate is exponential.
+Therefore the testicular histology does not have to be
+absolute zero in order for no spermatozoa to reach the ejaculate.
+Rather, a threshold of approximately 4-6 mature spermatids/
+tubule must be exceeded for any spermatozoa to reach the
+ejaculate.
+Comparison of quantitative evaluation of histology in a
+diagnostic testicle biopsy and the successful retrieval of
+spermatozoa for TESE-ICSI
+Of the 45 patients included in this study, 26 (58%) had
+detectable spermatids present in the diagnostic biopsy performed prior to the attempt at TESE-ICSI. Of those 26 patients
+with spermatids present in the prior biopsy, 22 (85%) had a
+successful TESE-ICSI procedure performed later. Of those 22
+patients in whom spermatozoa could be retrieved and used to
+
+Downloaded from https://academic.oup.com/humrep/article/12/11/2422/664759 by guest on 15 September 2024
+
+spermatic cord was injected with 5 ml of 0.5% local anaesthetic via
+a 27 gauge needle just distal to the external inguinal ring. Then an
+additional 2 ml of 0.5% local anaesthetic was injected over the
+anterior scrotal skin in the area where a 0.5 cm incision was made
+all the way into the tunica albuginea. This is a fairly painless clinic
+procedure from which the patients are recovered within 15-20 min.
+Although the procedure is no more painful than a needle biopsy, it
+always yields a sufficient number of seminiferous tubules to perform
+an adequate quantitative analysis.
+The technique used for TESE-ICSI, however, involved a larger
+incision, usually a general anaesthetic, and an extensive exposure of
+the surface of the tunica albuginea in order to obtain samples from
+all regions of the testis. Thus, a prior testicle biopsy was a very
+minimal procedure compared to the extensive procedure employed
+for TESE-ICSI.
+
+Testicular sperm distribution in azoospermia
+
+Table I. Azoospermia caused by Sertoli cell only
+Patient no.
+
+Mean no. pachytene
+spermatocytes/
+seminiferous tubulea
+
+Mean no. spermatids/
+seminiferous tubulea
+
+Spermatozoa found
+for TESE-ICSI?
+yes
+
+3.3
+3.1
+0
+0
+6.3
+2.1
+0
+0
+3.3
+0
+0
+1.6
+0
+0
+0
+0
+3.9
+8.1
+0
+0
+0
+0
+1.5
+
+± 8.6
+± 8.0
+± 10.2
+± 3.2
+± 8.8
+± 4.8
+
+± 12.2
+± 13.5
+
+± 4.9
+
+1.70
+4.10
+0
+0
+.30
+1.73
+0
+0
+2.70
+0
+0
+1.50
+0
+0
+0
+0
+2.70
+6.40
+0
+0
+0
+0
+0.50
+
+± 6.0
+± 13.6
+± 7.1
+± 2.5
+
+X
+X
+
+xbb
+x
+
+± 7.6
+
+X
+
+± 5.1
+
+X
+X
+
+X
+X
+X
+X
+Downloaded from https://academic.oup.com/humrep/article/12/11/2422/664759 by guest on 15 September 2024
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+
+no
+
+b
+
+X
+
+± 8.9
+±11.2
+
+± 1.8
+
+xbb
+x
+
+X
+X
+X
+X
+X
+tX
+X
+X
+
+X
+
+a
+
+±SD.
+Pregnant, ongoing >20 weeks.
+TESE = testicular sperm extraction.
+ICSI = intracytoplasmic sperm injection.
+
+b
+
+Table II. Azoospermia caused by maturation arrest
+Patient
+no.
+
+Mean no. pachytene
+spermatocytes/
+seminiferous tubulea
+
+Mean no. spermatids/
+seminiferous tubulea
+
+Spermatozoa found for
+TESE-ICSI?
+yes
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+
+25.4
+19.4
+17.6
+22.1
+17.1
+28.7
+33.5
+25.5
+15.9
+22.8
+24.9
+17.4
+
+±
+±
+±
+±
+±
+±
+±
+±
+±
+±
+±
+±
+
+5.8
+9.2
+5.4
+5.6
+7.0
+9.7
+7.6
+6.9
+5.1
+5.7
+7.0
+5.1
+
+3.1
+0
+0
+5.6
+1.8
+2.1
+1.4
+1.2
+1.6
+3.2
+0.4
+1.3
+
+± 4.2
+±
+±
+±
+±
+±
+±
+±
+±
+±
+
+2.6
+4.2
+4.1
+1.9
+1.8
+3.7
+3.4
+1.0
+1.9
+
+no
+
+Xb
+X
+X
+X
+X
+X
+xbb
+
+x
+
+X
+
+X
+X
+b
+
+x
+
+a
+
+±SD.
+b
+Pregnant, ongoing >20 weeks.
+TESE == testicular sperm extraction.
+ICSI = intracytoplasmic sperm injection.
+
+fertilize their wife's oocytes, 12 (55%) had a successful
+pregnancy. Of the 19 patients without any spermatids seen on
+an exhaustive quantitative evaluation of the prior biopsy,
+only one had a successful TESE-ICSI procedure (defined by
+retrieving spermatozoa which were used successfully to fertilize
+their wife's oocytes), but none became pregnant. Thus, a prior
+positive testicle biopsy yielded an 85% chance for successful
+TESE-ICSI, and a negative prior testicle biopsy reduced the
+possibility for successful TESE-ICSI to only 5%.
+
+Comparison ofSertoli cell only, maturation arrest, and other
+miscellaneous causes of non-obstructive azoospermia
+With azoospermia caused by Sertoli cell only, as noted in
+Table I, the mean number of pachytene spermatocytes is
+roughly equivalent to the mean number of spermatids/seminiferous tubule. This one-to-one relationship is the same as is
+seen in normal spermatogenesis (Silber et al, 1990). However,
+in Table II, it is observed that with azoospermia caused by
+maturation arrest, there is a normal number of pachytene
+2425
+
+SJ.Silber et al.
+
+Table III. Miscellaneous non-obstructive azoospermia: :ryptorchidism, chemotherapy, combined maturation
+arrest and Sertoli cell only
+Patient no
+
+No. >achytene
+spermatocytes/
+seminiferous tubulea
+
+No. spermatids/
+seminiferous
+tubulea
+
+Spermatozoa found
+.for TESE-ICSI?
+yes
+
+7.6
+8.9
+0
+6.4
+6.2
+10.8
+1.7
+18.1
+10.7
+11.5
+
+± 12.1
+± 9.2
+±
+±
+±
+±
+±
+±
+±
+
+7.1
+8.5
+9.4
+5.5
+6.8
+9.5
+10.1
+
+0
+3.3 :t
+0
+0
+6.5 :t
+2.5 dt
+1.4 dt
+3.1 dt
+3.8 dt
+3.8 dt
+
+X
+7.1
+9.9
+5.4
+4.6
+3.9
+6.2
+5.6
+
+X
+
+xb
+X
+xXb
+xXb
+
+X
+X
+
+a
+
+±SD.
+Pregnant, ongoing >20 weeks.
+TESE = testicular sperm extraction.
+ICSI = intracytoplasmic sperm injection.
+b
+
+Figure 3. 100% maturation arrest.
+
+" .
+
+-K%
+
+i ^ . §
+
+.-:•••
+
+.
+
+• ••%'>" • .. " : * t
+
+/J
+
+^
+
+Figure 2. (a) Sertoli cell only, (b) normal spermatogenesis.
+spermatocytes counted per seminiferous tubule despite either
+zero or a drastically reduced number of spermatids/seminiferous tubule (Figure 3). In the miscellaneous categories of nonobstructive azoospermia, there were a variable number of
+pachytene spermatocytes despite a consistently reduced number
+of spermatids.
+2426
+
+Peculiarly, with Sertoli cell only, the presence of any
+spermatids in the prior biopsy uniformly predicted that TESEICSI would be successful. However, with maturation arrest,
+the finding of spermatids in a prior biopsy was no guarantee
+of successful retrieval of spermatozoa for TESE-ICSI. Nine
+out of nine Sertoli cell only cases with spermatids seen at
+prior histology had successful ICSI sperm retrieval, but only
+six out of 10 cases of maturation arrest with spermatids seen
+at prior histology had a successful retrieval of spermatozoa
+at TESE-ICSI. Furthermore, the histology of patients with
+maturation arrest usually revealed only 2 0 ^ 0 cross-sections
+of tubules for counting, whereas in Sertoli cell only cases,
+there were generally more than 100 tubule cross-sections. This
+is readily explained by the diminished diameter of seminiferous
+tubules with Sertoli cell only compared to the completely
+normal diameter of seminiferous tubules in patients with
+maturation arrest. As has been noted previously, this phenomenon explains the normal size of testes with maturation arrest,
+and the generally normal follicle-stimulating hormone (FSH)
+concentration in those cases (Silber et al, 1996).
+
+Downloaded from https://academic.oup.com/humrep/article/12/11/2422/664759 by guest on 15 September 2024
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+
+no
+
+Testicular sperm distribution in azoospermia
+
+Distribution of spermatogenesis in the testis
+
+Number of mature
+spermatids per tubule
+Correlation fit
+r2=.9l
+a = 10.39
+b = 0.31
+
+[sevjere
+
+Patches of sperm production in
+different regions of testis
+
+y = QX (power curve)
+
+oligjospqrmia
+
+Vs
+20
+
+30
+
+40
+
+50
+
+60
+
+70
+
+80
+
+90
+
+100
+
+Total sperm count x 10 s
+
+Figure 4. Graph depicting quantitative testicle biopsy and sperm
+count.
+
+Discussion
+The rationale for treating azoospermia caused by germinal
+failure with TESE and ICSI is based on the consistent
+observation that in a little over 50% of such patients, a
+miniscule number of spermatozoa can be extracted from
+testicular tissue and that this tiny number of often non-motile
+testicular spermatozoa can be successfully used with the ICSI
+procedure to achieve fertilization and pregnancy. The present
+study appears to indicate that there is indeed a minimum
+quantitative threshold of spermatogenesis which must be
+exceeded for any spermatozoa to reach the ejaculate. In all
+cases of non-obstructive azoospermia subjected to a detailed
+quantitative study there appears to be a mean of <6 mature
+spermatids/tubule (usually <4). Most likely, when the mean
+number of mature spermatids/seminiferous tubule (i.e. all of
+the spermatids found on the slide divided by all of the number
+of tubules) is <4-6, there is a quantity of spermatozoa
+insufficient to reach the ejaculate after transit from the testicle.
+The normal range of spermatogenesis in fertile men, or in
+obstructive azoospermia, appears to be from 17 spermatids/
+seminiferous tubule to about 35 spermatids/seminiferous tubule
+(Silber et al, 1990; Silber and Rodriguez-Rigau, 1981).
+Because of the exponential effect of the sperm count in the
+ejaculate being a function of seminiferous tubule volume, and
+the quantitative analysis histology being a two-dimensional
+measurement, the curve expressing the relationship between
+mean number of spermatids/seminiferous tubule, and sperm
+count in the ejaculate, is an exponential one which 'breaks' at
+around 15 spermatids/tubule (Figure 4). Therefore a 6-30-fold
+decrease in the quantitative production of spermatozoa seen
+on a two-dimensional seminiferous tubule cross-section can
+result in as much as a thousand-fold or greater difference in
+actual sperm production. Thus, the presence of only a few
+mature spermatids/tubule in germinal failure and nonobstructive azoospermia cases represents an extremely deficient
+degree of sperm production. It is apparent that an extremely
+low quantity of sperm production is compatible with azoospermia and that a threshold of probably 4-6 mature spermatids/
+tubule must be exceeded for any spermatozoa to reach the
+ejaculate.
+
+Figure 5. The reliability of prior diagnostic biopsy suggests a
+homogeneous distribution of spermatogenesis in non-obstructive
+azoospermia, and not a patchy distribution.
+
+The findings were similar for cases of Sertoli cell only,
+maturation arrest, cryptorchidism, post-chemotherapy, and even
+combinations of maturation arrest and Sertoli cell only. Thus,
+the type of germinal failure, or the cause of the non-obstructive
+azoospermia, had no effect on this threshold concept. In fact,
+the same threshold principle seems to apply equally for all
+types of germinal failure and non-obstructive azoospermia
+whatever the cause.
+How can a small diagnostic testicle biopsy specimen
+representing perhaps 1/1000 of the total testicular volume
+possibly predict the presence of a minute patch of spermatogenesis to be found somewhere in the testicle at a future date
+during a TESE-ICSI procedure? The fear is that either the
+diagnostic biopsy could miss the one area where spermatogenesis was occurring, or alternatively, if the diagnostic biopsy
+was lucky enough to hit the one area of spermatogenesis, then
+perhaps it could be removed with that diagnostic biopsy. The
+findings of our present study suggest that these are not serious
+problems because the distribution of a minute quantity of
+spermatogenesis in these germinal failure patients must be
+diffusely multi-focal, distributed evenly throughout the testicle
+rather than in a few patchy areas (Figure 5). The fact that a
+single diagnostic testicle biopsy is relatively predictive of
+successful retrieval of spermatozoa at TESE, and in fact of
+multiple TESE-ICSI procedures in the same patient, argues
+for a distribution of spermatogenesis in patients with nonobstructive azoospermia that is multi-focal and relatively
+homogeneous throughout the testicle.
+This homogeneous distribution within the testis has been
+well established in normal spermatogenesis since the early work
+of Steinberger, who found that the quantitative determination of
+the various elements of spermatogenesis determined by a
+single diagnostic testicle biopsy is representative of what would
+be found if the entire testicle were removed, homogenized, and
+counted in toto (Steinberger and Tjioe, 1968). If the presence
+of a minute amount of spermatogenesis in these deficient
+testicles was of a regional nature, dispersed unevenly in
+perhaps one or two different areas, rather than sprinkled like
+pepper throughout the testicle, then a diagnostic testicle biopsy
+would not be predictive of the potential success or failure of
+TESE-ICSI. The fact that a diagnostic biopsy is predictive of
+2427
+
+Downloaded from https://academic.oup.com/humrep/article/12/11/2422/664759 by guest on 15 September 2024
+
+10
+
+Diffuse distribution of sperm
+production throughout testis
+
+S.J.Silber et al.
+
+References
+Clermont, Y. (1972) Kinetics of spermatogenesis in mammals; seminiferous
+epithelium cycles and spermatogonial renewal. Phys. Rev., 52, 198-236.
+Devroey, P., Godoy, H., Smitz, J. et al. (1996) Female age predicts embryonic
+implantation after ICSI: a case controlled study. Hum. Reprod., 11, 13241327.
+Devroey, P., Liu, J., Nagy, Z. et al. (1994) Normal fertilization of human
+oocytes after testicular sperm extraction and intracytoplasmic sperm
+injection (TESE-ICSI). Fertil. Steril, 62, 639-641.
+Devroey, P., Liu, J., Nagy, Z. et al. (1995) Pregnancies after testicular sperm
+extraction and intracytoplasmic sperm injection (ICSI) in non-obstructive
+azoospermia. Hum. Reprod., 10, 1457-1460.
+Heller, C.G. and Clermont, Y. (1964) Kinetics of the germinal epithelium in
+man. Rec. Prog. Hormone Res., 20, 545-575.
+Ogura, A. and Yanagimachi, R. (1993) Round spermatid nuclei injected into
+hamster oocytes form pronuclei and participate in syngamy. Biol Reprod.,
+48, 219-225.
+Palermo, G., Joris, H., Devroey, P. and Van Steirteghem, A.C. (1992)
+Pregnancies after ICSI of a single spermatozoon into oocyte. Lancet, 340,
+17-18.
+Schoysman, R., Vanderzwalmen, P., Nijs, M. et al. (1993) Pregnancy after
+fertilisation with human testicular spermatozoa. Lancet, 342, 1237.
+
+2428
+
+Silber, SJ. (1995) What forms of male infertility are there left to be cured?
+Hum. Reprod., 10, 503-504.
+Silber, S.J. and Rodriguez-Rigau, L.J. (1981) Quantitative analysis of testicle
+biopsy: determination of partial obstruction and prediction of sperm count
+after surgery for obstruction. Fertil. Steril., 36, 480-485.
+Silber, S.J., Patrizio, P. and Asch, R.H. (1990) Quantitative evaluation of
+spermatogenesis by testicular histology in men with congenital absence of
+the vas deferens undergoing epididymal sperm aspiration. Hum. Reprod.,
+5, 89-93.
+Silber, S.J., Nagy, Z., Liu, J. et al. (1994) Conventional IVF versus ICSI
+for patients requiring microsurgical sperm aspiration. Hum. Reprod., 9,
+1705-1709.
+Silber, S.J., Van Steirteghem, A.C., Liu, J. et al. (1995a) High fertilization
+and pregnancy rates after ICSI with spermatozoa obtained from testicle
+biopsy. Hum. Reprod., 10, 148-152.
+Silber, S.J., Nagy, Z., Liu, J. et al. (1995b) The use of epididymal and
+testicular spermatozoa for intracytoplasmic sperm injection: the genetic
+implications for male infertility. Hum. Reprod., 10, 2031-2043.
+Silber, S.J., Van Steirteghem, A.C. and Devroey, P. (1995c) Sertoli cell only
+revisited. Hum. Reprod., 10, 1031-1032.
+Silber, S.J., Liu, J., Van Steirteghem, A.C. et al. (1996) Normal pregnancies
+resulting from testicular sperm extraction and intracytoplasmic sperm
+injection for azoospermia due to maturation arrest. Fertil. Steril, 66,
+110-117.
+Staessen, C , Coonen, E. and Van Assche, E. (1996) Preimplantation diagnosis
+for X and Y normality in embryos from three Klinefelter patients. Hum.
+Reprod., 11, 1650-1653.
+Steinberger, E. and Tjioe, D.Y. (1968) A method for quantitative analysis of
+human seminiferous epithelium. Fertil. Steril., 20, 545-575.
+Tournaye, H., Liu, J., Nagy, Z. et al. (1996a) Correlation between testicular
+histology and outcome after intracytoplasmic sperm injection using testicular
+spermatozoa. Hum. Reprod., 11, 127-132.
+Tournaye, H., Staessen, C , Liebaers, I. et al. (1996b) Testicular sperm
+recovery in nine 47,XXY Klinefelter patients. Hum. Reprod., 11,1644—1649.
+Tournaye, H., Verheyen, G., Nagy, P. et al. (1997) Are there any predictive
+factors for successful testicular sperm recovery in azoospermic patients?
+Hum. Reprod., 12(1), 80-86.
+Van Steirteghem, A.C, Nagy, Z., Joris, H. et al. (1993) High fertilization and
+implantation rates after ICSI. Hum. Reprod., 8, 1061-1066.
+Zuckerman, Z., Rodriguez-Rigau, L.J., Weiss, D.B. et al. (1978) Quantitative
+analysis of the seminiferous epithelium in human testicle biopsies and the
+relation of spermatogenesis to sperm density. Fertil. Steril., 30, 448-455.
+Received on April 10, 1997; accepted on July 30, 1997
+
+Downloaded from https://academic.oup.com/humrep/article/12/11/2422/664759 by guest on 15 September 2024
+
+success with TESE supports Steinberger's original concept
+from 1968.
+Comparison of the findings in maturation arrest and
+Sertoli cell only is also of interest. In maturation arrest cases,
+we found a completely normal distribution of 17.1-33.5
+pachytene spermatocytes/seminiferous tubule. This is no different from the number of pre-meiotic cells that would be
+seen in patients with obstructive azoospermia and normal
+spermatogenesis. Nonetheless, in maturation arrest, there were
+either no spermatids, or a very tiny number of spermatids (up
+to a maximum of 6/tubule), just as in Sertoli cell only. Thus,
+the maturation arrest cases we have seen do not reflect a
+failure of the maturing of spermatids. Rather, maturation arrest
+in our series represented a failure of the spermatocytes to
+undergo meiosis. Furthermore, like 'Sertoli cell only,' it is not
+necessarily a 100% defect. In the majority of cases of maturation arrest, there are nonetheless a tiny number of pachytene
+spermatocytes that complete meiosis into spermatids which
+are capable of developing into normal children after TESEICSI. Finally, it needs to be emphasized that in none of the
+cases of maturation arrest did we find round spermatids in the
+absence of elongated spermatids, or mature spermatozoa.
+In summary, there is a threshold of spermatogenesis which
+must be exceeded for any spermatozoa at all to reach the
+ejaculate. Quantitative analysis of testicle biopsy is able to
+predict the likelihood of success or failure of TESE-ICSI.
+Extremely tiny numbers of spermatozoa extracted from a
+testicle biopsy in azoospermic men appear to yield pregnancy
+rates using ICSI no lower than those achieved in men with
+normal spermatogenesis. Finally, prior diagnostic testicle
+biopsy is recommended for all patients with azoospermia from
+any cause in order to plan appropriate treatment. Rather than
+representing an unnecessary extra procedure, this knowledge
+may prevent the needless removal of excessive tissue from all
+regions of the testis when attempting TESE-ICSI. If the prior
+testicle biopsy, evaluated quantitatively, reveals no spermatids,
+then the couple should be counselled about the possibility of
+donor sperm back-up.
+
+
