@@ -6,6 +6,7 @@ import ananya from "../../assets/ananya.png";
 import duc from "../../assets/Duc.jpg";
 import team from "../../assets/IwiH_Team.jpg";
 import ella from "../../assets/ella.jpg";
+import miguel from "../../assets/miguel.jpeg";
 
 // Type for each item
 type ItemProps = {
@@ -132,6 +133,22 @@ function Elladesc() {
   );
 }
 
+function MiguelDesc() {
+  return (
+    <div
+      style={{
+        marginTop: "20px",
+        padding: "20px",
+        border: "1px solid #ddd",
+        backgroundColor: "#f9f9f9",
+      }}
+    >
+      <h1>Team Member: Miguel</h1>
+      <p>Add in your desc here!</p>
+    </div>
+  );
+}
+
 // Default display component
 function DefaultDisplay() {
   return (
@@ -163,7 +180,7 @@ function GalleryDiv() {
   const handleClick2 = () => setSelectedComponent(<Ananyadesc />);
   const handleClick3 = () => setSelectedComponent(<Ducdesc />);
   const handleClick4 = () => setSelectedComponent(<Elladesc />); // Reset or set to any default component
-  const handleClick5 = () => setSelectedComponent(<DefaultDisplay />); // Reset or set to any default component
+  const handleClick5 = () => setSelectedComponent(<MiguelDesc />); // Reset or set to any default component
 
   // Array of 5 items with images and unique click handlers
   const items = [
@@ -192,9 +209,9 @@ function GalleryDiv() {
       onClick: handleClick4,
     },
     {
-      itemId: "item-5",
-      title: "Button 5",
-      imageSrc: "https://via.placeholder.com/150",
+      itemdId: "item-6",
+      title: "Miguel",
+      imageSrc: miguel,
       onClick: handleClick5,
     },
   ];
