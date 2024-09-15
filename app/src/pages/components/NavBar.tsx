@@ -1,53 +1,46 @@
 import "./Navbar.css";
+import { Outlet, Link } from "react-router-dom";
+import { useState, FormEvent } from "react";
+import logo from "../../assets/iwih_logo.png";
 
 function Navbar() {
-  return (
-    <nav className="navbar navbar-expand-lg navbar-light bg-light">
-      <a className="navbar-brand" href="#">
-        IWiH
-      </a>
+  const [searchQuery, setSearchQuery] = useState<string>("");
 
-      <div className="collapse navbar-collapse" id="navbarSupportedContent">
-        <ul className="navbar-nav mr-auto">
-          <li className="nav-item active">
-            <a className="nav-link" href="#">
-              Home
-            </a>
-          </li>
-          <li className="nav-item">
-            <a className="nav-link" href="../About">
-              About
-            </a>
-          </li>
-          <li className="nav-item">
-            <a className="nav-link disabled" href="#">
-              Upload
-            </a>
-          </li>
-          <li className="nav-item">
-            <a className="nav-link disabled" href="#">
-              Extension
-            </a>
+  const handleSearch = (event: FormEvent<HTMLFormElement>) => {
+    event.preventDefault();
+    // Handle the search logic here (e.g., navigate to search results page)
+    console.log("Searching for:", searchQuery);
+  };
+
+  return (
+    <div className="navbar">
+      <a className="navbar-brand" href="#">
+        <img className="navbar-logo" src={logo} alt="Logo" />
+        <Link to="/">iWiH</Link>
+      </a>
+      <nav>
+        <ul>
+          <li>
+            <Link to="/">Home</Link>
           </li>
           <li>
-            <form className="searchbar">
-              <input
-                className="form-control mr-sm-2"
-                type="search"
-                placeholder="Search"
-                aria-label="Search"
-              ></input>
-              <button
-                className="btn btn-outline-success my-2 my-sm-0"
-                type="submit"
-              >
-                Search
-              </button>
-            </form>
+            <Link to="/about">About</Link>
           </li>
         </ul>
+      </nav>
+      <div className="navbar-search">
+        <form onSubmit={handleSearch}>
+          <input
+            type="text"
+            placeholder="Search..."
+            value={searchQuery}
+            onChange={(e) => setSearchQuery(e.target.value)}
+          />
+          <button type="submit">Search</button>
+        </form>
       </div>
-    </nav>
+      <Outlet />
+    </div>
   );
 }
 

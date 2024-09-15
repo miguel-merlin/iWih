@@ -4,14 +4,11 @@ import PaperUpload from "./components/PaperUpload";
 import SearchInput from "./components/SearchInput";
 
 function Home() {
-  return (
-    <div>
-      <NavBar></NavBar>
-      <Intro></Intro>
-      <PaperUpload />
-      <SearchInput />
-    </div>
-  );
+  return <div></div>;
 }
 
 export default Home;
+
+//<Intro/>
+//<PaperUpload />
+//<SearchInput />

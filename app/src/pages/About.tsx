@@ -4,7 +4,6 @@ import GalleryDiv from "./components/GalleryDiv";
 function About() {
   return (
     <div>
-      <NavBar></NavBar>
       <GalleryDiv></GalleryDiv>
     </div>
   );

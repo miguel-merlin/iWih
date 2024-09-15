@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=SUSE:wght@100..800&display=swap" rel="stylesheet');
+
+/* Navbar container */
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #ffffff;
+  position: fixed;
+  top: 0;
+  left: auto;
+  width: 100%;
+  z-index: 1000;
+}
+
+/* Left-aligned logo and brand */
+.navbar-brand {
+  font-family: "suse";
+  display: flex;
+  align-items: center;
+  color: #b45a79;
+  text-decoration: none;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+/* Logo image styling */
+.navbar-logo {
+  width: 40px;
+  height: 40px;
+  margin-right: 10px;
+}
+
+/* Right-aligned nav items */
+.navbar nav ul {
+  list-style: none;
+  display: flex;
+  margin: 0;
+  padding: 0;
+}
+
+.navbar nav ul li {
+  margin-left: 20px;
+}
+
+.navbar nav ul li a {
+  color: #b45a79;
+  text-decoration: none;
+  font-size: 18px;
+}
+
+.navbar nav ul li a:hover {
+  text-decoration: underline;
+}
+
+/* Search bar styling */
+.navbar-search {
+  margin-left: 20px;
+  display: flex;
+  align-items: center;
+}
+
+.navbar-search input {
+  padding: 5px;
+  font-size: 16px;
+  border: none;
+  border-radius: 5px;
+}
+
+.navbar-search button {
+  margin-left: 5px;
+  padding: 5px 10px;
+  font-size: 16px;
+  background-color: #555;
+  color: #b45a79;
+  border: none;
+  border-radius: 5px;
+}
+
+.navbar-search button:hover {
+  background-color: #777;
+}
