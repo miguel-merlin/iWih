@@ -5,7 +5,7 @@ nav {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background-color: #ffffff;
+  background-color: #d7cfb7;
   position: fixed;
   top: 0;
   left: 0;
@@ -17,7 +17,7 @@ nav {
 
 /* Left-aligned logo and brand */
 .navbar-brand {
-  background-color: #ffffff;
+  background-color: #d7cfb7;
   font-family: "SUSE", sans-serif;
   display: flex;
   align-items: center;
@@ -28,21 +28,23 @@ nav {
 }
 
 .navbar-logo {
-  background-color: #ffffff;
-  width: 40px;
-  height: 40px;
+  background-color: #d7cfb7;
+  width: 60px;
+  height: auto;
   margin-right: 10px;
 }
 
 /* Right-aligned nav items */
 .navbar nav {
-  background-color: #ffffff;
+  text-decoration: none;
+  background-color: #d7cfb7;
   display: flex;
   align-items: center;
 }
 
 .navbar nav ul {
-  background-color: #ffffff;
+  text-decoration: none;
+  background-color: #d7cfb7;
   list-style: none;
   display: flex;
   margin: 0;
@@ -50,32 +52,34 @@ nav {
 }
 
 .navbar nav ul li {
-  background-color: #ffffff;
+  text-decoration: none;
+  background-color: #d7cfb7;
   margin-left: 20px;
 }
 
 .navbar nav ul li a {
-  background-color: #ffffff;
+  text-decoration: none;
+  background-color: #d7cfb7;
   color: #b45a79;
   text-decoration: none;
   font-size: 18px;
 }
 
 .navbar nav ul li a:hover {
-  background-color: #ffffff;
+  background-color: #d7cfb7;
   text-decoration: none;
 }
 
 /* Search bar styling */
 .searchbar {
-  background-color: #ffffff;
+  background-color: #d7cfb7;
   display: flex;
   align-items: center;
   margin-left: 20px;
 }
 
 .searchbar input {
-  background-color: #ffffff;
+  background-color: #d7cfb7;
   padding: 5px;
   font-size: 16px;
   border: 1px solid #b45a79;
@@ -84,7 +88,7 @@ nav {
 }
 
 .searchbar button {
-  background-color: #ffffff;
+  background-color: #d7cfb7;
   margin-left: 5px;
   padding: 5px 10px;
   font-size: 16px;

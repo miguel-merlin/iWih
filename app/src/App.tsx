@@ -9,15 +9,13 @@ import "./App.css";
 function App() {
   return (
     <Routes>
-        <Route path="/" element={<NavBar />}>
+      <Route path="/" element={<NavBar />}>
         <Route index element={<Home />} />
         <Route path="about" element={<About />} />
         <Route path="research" element={<Research />} />
         <Route path="*" element={<NoMatch />} />
-        </Route>
-        
+      </Route>
     </Routes>
-
   );
 }
 export default App;

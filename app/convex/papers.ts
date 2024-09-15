@@ -9,7 +9,7 @@ export const send = mutation(async (ctx, { body, author }) => {
   await ctx.db.insert("papers", message);
 });
 
-export const sendIPaper = mutation(async (ctx, { storageId, author }) => {
+export const sendPaper = mutation(async (ctx, { storageId, author }) => {
   const message = { body: storageId, author, format: "pdf" };
   await ctx.db.insert("papers", message);
 });

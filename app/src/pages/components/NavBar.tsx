@@ -1,4 +1,5 @@
 import "../../styles/NavBar.css";
+import logo from "../../assets/iwih_logo.png";
 import { Outlet, Link } from "react-router-dom";
 
 function Navbar() {
@@ -6,6 +7,7 @@ function Navbar() {
     <div>
       <nav>
         <a className="navbar-brand" href="#">
+          <img className="navbar-logo" src={logo} alt="logo" />
           <Link to="/">IWiH</Link>
         </a>
         <ul className="navbar-links">
