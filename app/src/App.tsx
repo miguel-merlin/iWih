@@ -7,13 +7,15 @@ import "./App.css";
 
 function App() {
   return (
-    <Routes>
-      <Route path="/" element={<NavBar />}>
-        <Route index element={<Home />} />
-        <Route path="about" element={<About />} />
-        <Route path="*" element={<NoMatch />} />
-      </Route>
-    </Routes>
+    <div>
+        <Routes>
+            <Route path="/" element={<NavBar />}>
+            <Route index element={<Home />} />
+            <Route path="about" element={<About />} />
+            <Route path="*" element={<NoMatch />} />
+        </Route>
+        </Routes>
+    </div>
   );
 }
 export default App;

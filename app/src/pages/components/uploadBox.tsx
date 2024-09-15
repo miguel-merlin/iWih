@@ -1,4 +1,4 @@
-import "../styles/upload.css";
+import "../../styles/upload.css";
 
 const UploadBox = () => {
   return (
